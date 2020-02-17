@@ -39,7 +39,16 @@ h3{
 }
 a{
   color:#11999E;
-}
+  text-decoration: none;
+  }
+
+  a:hover{
+    color: #ffaaa5;
+  }
+  .copywrite{
+    color: #b8e0d1;
+    font-size: 12px;
+  }
 .top-container{
   background-color: #ffd3b6;
   border-color: black;
