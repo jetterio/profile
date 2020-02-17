@@ -1,0 +1,140 @@
+body{
+  background-color: #dcedc1;
+  margin:0;
+  text-align: center;
+  font-family: 'Amatic SC',sans-serif;
+
+}
+p{
+ font-family: 'Patrick Hand',sans-serif;
+   font-size: 1.15em;
+}
+hr{
+  border:none;
+  border-top: 10px dotted;
+  color: #a8e6cf;
+  width:5%;
+  padding-bottom: 50px;
+
+}
+h1{
+  padding-top: 50px;
+  font-size: 5em;
+  color: #ffaaa5;
+  margin:0;
+  font-family: 'Amatic SC', cursive;
+  line-height: 1.5;
+
+}
+h2{
+  font-size:2.5rem;
+  color: #ffaaa5;
+  font-weight:bolder;
+  margin:0 0 20px 0;
+}
+h3{
+  color: #a8e6cf;
+  font-size:1.5em;
+
+}
+a{
+  color:#11999E;
+}
+.top-container{
+  background-color: #ffd3b6;
+  border-color: black;
+  position:relative;
+
+
+}
+.profile{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 50%;
+  margin: 0 auto;
+}
+.skill-row{
+  text-align: left;
+  line-height: 2;
+  margin: 100px auto;
+  width: 50%;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:250px;
+  }
+
+.top-cloud{
+  position:absolute;
+  right:250px;
+}
+
+.skill-icon{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+.skill-icon-right{
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+.contact-me{
+  padding-bottom: 50px;
+}
+.bottom-container{
+  background-color: #a8e6cf;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.footer-link{
+  font-size: 2em;
+  padding: 0 25px;
+}
+  .contact-button {
+  	-moz-box-shadow:inset 0 1px 0 0 #c1ed9c;
+  	-webkit-box-shadow:inset 0 1px 0 0 #c1ed9c;
+  	box-shadow:inset 0 1px 0 0 #c1ed9c;
+  	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #a8e6cf), color-stop(1, #84ad9d) );
+  	background:-moz-linear-gradient( center top, #a8e6cf 5%, #84ad9d 100% );
+  	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#a8e6cf', endColorstr='#84ad9d');
+  	background-color:#a8e6cf;
+  	-webkit-border-top-left-radius:20px;
+  	-moz-border-radius-topleft:20px;
+  	border-top-left-radius:20px;
+  	-webkit-border-top-right-radius:20px;
+  	-moz-border-radius-topright:20px;
+  	border-top-right-radius:20px;
+  	-webkit-border-bottom-right-radius:20px;
+  	-moz-border-radius-bottomright:20px;
+  	border-bottom-right-radius:20px;
+  	-webkit-border-bottom-left-radius:20px;
+  	-moz-border-radius-bottomleft:20px;
+  	border-bottom-left-radius:20px;
+  	text-indent:0;
+  	border:1px solid #77ab97;
+  	display:inline-block;
+  	color:#edc8b6;
+  	font-family:Comic Sans MS;
+  	font-size:15px;
+  	font-weight:bold;
+  	font-style:normal;
+  	height:50px;
+  	line-height:50px;
+  	width:86px;
+  	text-decoration:none;
+  	text-align:center;
+  	text-shadow:1px 1px 0 #899478;
+  }
+  .classname:hover {
+  	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #84ad9d), color-stop(1, #a8e6cf) );
+  	background:-moz-linear-gradient( center top, #84ad9d 5%, #a8e6cf 100% );
+  	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#84ad9d', endColorstr='#a8e6cf');
+  	background-color:#84ad9d;
+  }.classname:active {
+  	position:relative;
+  	top:1px;
+  }
+  /* This button was generated using CSSButtonGenerator.com */
