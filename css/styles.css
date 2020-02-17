@@ -12,7 +12,7 @@ p{
 hr{
   border:none;
   border-top: 10px dotted;
-  color: #a8e6cf;
+  color: #90c2af;
   width:5%;
   padding-bottom: 50px;
 
@@ -33,7 +33,7 @@ h2{
   margin:0 0 20px 0;
 }
 h3{
-  color: #a8e6cf;
+  color: #90c2af;
   font-size:1.5em;
 
 }
@@ -85,7 +85,7 @@ a{
   padding-bottom: 50px;
 }
 .bottom-container{
-  background-color: #a8e6cf;
+  background-color: #90c2af;
   padding-top: 20px;
   padding-bottom: 20px;
 }
